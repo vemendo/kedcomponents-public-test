@@ -1,0 +1,143 @@
+{
+	"tuitionGroupStudents": [{
+			"schoolName": "KED",
+			"tuitionGroupName": "IDR1_Gr1 (180816-190614)",
+			"studentFirstName": "Student2",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student2.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "DJUDJ_Gr2 (180816-190614)",
+			"studentFirstName": "Carl",
+			"studentLastName": "Holmberg",
+			"studentEmailAddress": "carl@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "DJUDJ_Gr2 (180816-190614)",
+			"studentFirstName": "Andrei",
+			"studentLastName": "Spatarelu",
+			"studentEmailAddress": "andrei.spatarelu@vemendo.se"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "DJUDJ_Gr2 (180816-190614)",
+			"studentFirstName": "Student3",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student3.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "DJUR1_GR3 (180816-190614)",
+			"studentFirstName": "Student2",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student2.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "DJUR1_GR3 (180816-190614)",
+			"studentFirstName": "Carl",
+			"studentLastName": "Holmberg",
+			"studentEmailAddress": "carl@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "IDR1_Gr1 (180816-190614)",
+			"studentFirstName": "Andrei",
+			"studentLastName": "Spatarelu",
+			"studentEmailAddress": "andrei.spatarelu@vemendo.se"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "DJUR1_GR3 (180816-190614)",
+			"studentFirstName": "Student3",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student3.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "MAT3b_Gr2 (180816-190614)",
+			"studentFirstName": "Andrei",
+			"studentLastName": "Spatarelu",
+			"studentEmailAddress": "andrei@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "IDR1_Gr1 (180816-190614)",
+			"studentFirstName": "Student 2",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student2.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "KEM1_Gr1 (180816-190614)",
+			"studentFirstName": "Student 3",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student3.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "KEM1_Gr1 (180816-190614)",
+			"studentFirstName": "Student 8",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student8.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "KEM1_Gr1 (180816-190614)",
+			"studentFirstName": "Student 9",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student9.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "BIO1_Gr1 (180816-190614)",
+			"studentFirstName": "Student 1",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student1.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "BIO1_Gr1 (180816-190614)",
+			"studentFirstName": "Student 4",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student4.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "BIO1_Gr1 (180816-190614)",
+			"studentFirstName": "Student 6",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student6.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "BIO1_Gr1 (180816-190614)",
+			"studentFirstName": "Student 10",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student10.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "BIO1_Gr2 (180816-190614)",
+			"studentFirstName": "Student 2",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student2.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "BIO1_Gr2 (180816-190614)",
+			"studentFirstName": "Student 7",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student7.classroom@kedschools.com"
+		},
+		{
+			"schoolName": "KED",
+			"tuitionGroupName": "BIO1_Gr2 (180816-190614)",
+			"studentFirstName": "Student 8",
+			"studentLastName": "Classroom",
+			"studentEmailAddress": "student8.classroom@kedschools.com"
+		}
+	]
+}

@@ -1,0 +1,72 @@
+.teacher-view .odd-even .selected{
+    font-style: italic;
+}
+
+.teacher-view .odd-even a{
+    text-decoration: none;
+}
+
+.teacher-view .teacherSchoolCourse{
+    padding: 0.3em;
+}
+
+.task-container .openHeaderContainer{
+    color: var(--col-Cyan);
+}
+
+.task-container .task-assignments-table table, td{
+    border: 1px solid #cfcfcf;
+    vertical-align: top;
+    padding: 0.4em;
+}
+
+.task-container .task-assignments-table th{
+    background:var(--col-Cyan)!important;
+    border:none;
+    color:white;
+    text-align: left;
+    padding: .4em;
+}
+
+.task-container .student-row{
+    width: 100%;
+    padding: 0.3em;
+    border:1px solid #cfcfcf;
+    margin-bottom: 0px;
+    border-bottom: none;
+    background: white;
+}
+.task-container .student-row.last{
+    border-bottom: 1px solid #cfcfcf;
+}
+
+.remind-assignment{
+    height: 2em;
+    padding-top: 1em;
+}
+
+.remind-assignment .btn{
+    background: var(--col-accent);
+}
+
+.teacher-view .notification-container{
+    display: flex;
+    align-items: center;
+}
+
+.teacher-view .notification-icon{
+    border-radius: 50%;
+    width:1.5em;
+    height:1.5em;
+    background: #D44F50;
+    text-align: center;
+    color: white;
+    font-size: 0.8em;
+    margin-left: 1em;
+    font-weight: bold;
+}
+
+.teacher-view .study-group-filter{
+    width: 45%;
+    margin-bottom: 2em;
+}
