@@ -1,0 +1,12 @@
+.teacher-view .odd-even .selected{
+    font-style: italic;
+}
+
+.teacher-view .odd-even a{
+    text-decoration: none;
+}
+
+.teacher-view .teacherSchoolCourse{
+    padding: 0.3em;
+    /* display: table-cell; */
+}
